@@ -1,1 +1,2 @@
-LEEME
+LEEME preparado para squash
+segundo commit
